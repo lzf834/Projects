@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1092922126618",
+    "project_id": "twt-messageapp",
+    "storage_bucket": "twt-messageapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092922126618:android:2d38408619226f265c7ca3",
+        "android_client_info": {
+          "package_name": "com.example.hello_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092922126618-55i1d76jcsj3k2bn2lpsqbe8gvgo9vvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hello_world",
+            "certificate_hash": "5604170ad57d49dfd3595b6d3eb167f0838973c9"
+          }
+        },
+        {
+          "client_id": "1092922126618-uearh1s4daafch5ug84uobj7k4cbbq7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1_wuZESaIF8AgCGxGCSvBipEweC77sJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092922126618-uearh1s4daafch5ug84uobj7k4cbbq7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
