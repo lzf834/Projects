@@ -177,9 +177,7 @@ while run:
                 flag1 = 1
             if event.key == pygame.K_DOWN:
                 y+= 1
-                flag1 = 1    
-            if event.key == pygame.K_0:
-                val = 0
+                flag1 = 1
             if event.key == pygame.K_1:
                 val = 1
             if event.key == pygame.K_2:
