@@ -26,10 +26,11 @@ board = [
     [0, 4, 9, 2, 0, 6, 0, 0, 7]
 ]
 
-base = tuple(board)
+base = board.copy()
 
 # fonts to be used
 textFont = pygame.font.SysFont("comicsans", 40)
+instructionFont = pygame.font.SysFont("comicsans", 30)
 numberFont = pygame.font.SysFont("harlowsolid", 40)
 
 # values
@@ -68,7 +69,7 @@ def draw(puzzle):
                 # render(text, antialias, color, background)
                 number = textFont.render(str(puzzle[i][j]), 1, (0, 0, 0))
                 # blit(source, dest, area=None, special_flags=0)
-                screen.blit(number, i * dif + 15, j * dif + 15)
+                screen.blit(number, (i * dif + 15, j * dif + 15))
 
     # draw grids - horizontal and vertical lines
     for i in range(10):
@@ -82,7 +83,7 @@ def draw(puzzle):
 # enter values into empty squares
 def enterValue(val):
     number = numberFont.render(str(val), 1, (0, 0, 0))
-    screen.blit(number, x * dif + 15, y * dif + 15)
+    screen.blit(number, (x * dif + 15, y * dif + 15))
 
 # Produce error for invalid entries
 def prodError():
@@ -134,15 +135,15 @@ def solve(puzzle):
 
 # display instructions for game
 def instruction():
-    line1 = textFont.render("Press \"D\" to reset \"R\" to empty", 1, (0, 0, 0))
-    line2 = textFont.render("Enter values and press \"Enter\" to key in", 1, (0, 0, 0))
+    line1 = instructionFont.render("Press D to reset R to empty", 1, (0, 0, 0))
+    line2 = instructionFont.render("Enter values and press Enter to key in", 1, (0, 0, 0))
 
     screen.blit(line1, (20, 520))
     screen.blit(line2, (20, 540))
 
 # display options when sudoku has been solved
 def result():
-    finishLine = textFont.render("You have completed the puzzle, press \"R\" or \"D\"", 1, (0, 0, 0))
+    finishLine = instructionFont.render("You have completed the puzzle, press R or D", 1, (0, 0, 0))
     screen.blit(finishLine, (20, 570))
 
 run = True
@@ -176,6 +177,8 @@ while run:
             if event.key == pygame.K_DOWN:
                 y+= 1
                 flag1 = 1    
+            if event.key == pygame.K_0:
+                val = 0
             if event.key == pygame.K_1:
                 val = 1
             if event.key == pygame.K_2:
@@ -201,8 +204,8 @@ while run:
                 rs = 0
                 error = 0
                 flag2 = 0
-                for i in range(10):
-                    for j in range(10):
+                for i in range(9):
+                    for j in range(9):
                         board[i][j] = 0
 
             # If D is pressed reset the board to default 
@@ -210,7 +213,9 @@ while run:
                 rs = 0
                 error = 0
                 flag2 = 0
-                board = list(base)
+                for i in range(9):
+                    for j in range(9):
+                        board[i][j] = base[i][j]
 
     if flag2 == 1:
         if not solve(board):

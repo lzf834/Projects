@@ -105,7 +105,7 @@ def solve(puzzle):
 #             x = prev[2]
 #             puzzle[prev[0]][prev[1]] = 0
 
-puzzlePrinter(board)
-solve(board)
-print("-------------------------------------")
-puzzlePrinter(board)
+# puzzlePrinter(board)
+# solve(board)
+# print("-------------------------------------")
+# puzzlePrinter(board)
