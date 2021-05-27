@@ -1,4 +1,5 @@
 import pygame
+import copy
 from main import isValid, findEmpty
 
 # init font module
@@ -26,7 +27,7 @@ board = [
     [0, 4, 9, 2, 0, 6, 0, 0, 7]
 ]
 
-base = board.copy()
+base = copy.deepcopy(board)
 
 # fonts to be used
 textFont = pygame.font.SysFont("comicsans", 40)
