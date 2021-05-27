@@ -106,14 +106,6 @@ def solve(puzzle):
 #             puzzle[prev[0]][prev[1]] = 0
 
 puzzlePrinter(board)
-#start timer
-start = time.time()
-
 solve(board)
-
-#end timer
-end = time.time()
-print(end - start)
-
 print("-------------------------------------")
 puzzlePrinter(board)
