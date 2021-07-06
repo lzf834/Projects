@@ -1,0 +1,16 @@
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\welcome dotnet\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\welcome dotnet\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\welcome dotnet\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\welcome dotnet\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\welcome dotnet\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\welcome dotnet\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\welcome dotnet\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\welcome dotnet\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\welcome dotnet\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\welcome dotnet\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\welcome dotnet\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\welcome dotnet\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\welcome dotnet\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\welcome dotnet\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\welcome dotnet\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\welcome dotnet\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache

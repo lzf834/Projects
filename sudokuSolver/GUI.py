@@ -8,7 +8,7 @@ pygame.font.init()
 screen = pygame.display.set_mode((500, 600))
 
 # Title
-pygame.display.set_caption("Sudoku")
+pygame.display.set_caption("Sudoku Solver")
 
 # Icon
 icon = pygame.image.load("icon.png")
