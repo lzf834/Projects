@@ -1,0 +1,32 @@
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C#dotnet playarea\bin\Debug\net5.0\C#dotnet playarea.exe
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C#dotnet playarea\bin\Debug\net5.0\C#dotnet playarea.deps.json
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C#dotnet playarea\bin\Debug\net5.0\C#dotnet playarea.runtimeconfig.json
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C#dotnet playarea\bin\Debug\net5.0\C#dotnet playarea.runtimeconfig.dev.json
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C#dotnet playarea\bin\Debug\net5.0\C#dotnet playarea.dll
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C#dotnet playarea\bin\Debug\net5.0\ref\C#dotnet playarea.dll
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C#dotnet playarea\bin\Debug\net5.0\C#dotnet playarea.pdb
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C#dotnet playarea\obj\Debug\net5.0\C#dotnet playarea.csproj.AssemblyReference.cache
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C#dotnet playarea\obj\Debug\net5.0\C#dotnet playarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C#dotnet playarea\obj\Debug\net5.0\C#dotnet playarea.AssemblyInfoInputs.cache
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C#dotnet playarea\obj\Debug\net5.0\C#dotnet playarea.AssemblyInfo.cs
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C#dotnet playarea\obj\Debug\net5.0\C#dotnet playarea.csproj.CoreCompileInputs.cache
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C#dotnet playarea\obj\Debug\net5.0\C#dotnet playarea.dll
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C#dotnet playarea\obj\Debug\net5.0\ref\C#dotnet playarea.dll
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C#dotnet playarea\obj\Debug\net5.0\C#dotnet playarea.pdb
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C#dotnet playarea\obj\Debug\net5.0\C#dotnet playarea.genruntimeconfig.cache
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# Number Guessing Game\bin\Debug\net5.0\C# Number Guessing Game.exe
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# Number Guessing Game\bin\Debug\net5.0\C# Number Guessing Game.deps.json
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# Number Guessing Game\bin\Debug\net5.0\C# Number Guessing Game.runtimeconfig.json
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# Number Guessing Game\bin\Debug\net5.0\C# Number Guessing Game.runtimeconfig.dev.json
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# Number Guessing Game\bin\Debug\net5.0\C# Number Guessing Game.dll
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# Number Guessing Game\bin\Debug\net5.0\ref\C# Number Guessing Game.dll
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# Number Guessing Game\bin\Debug\net5.0\C# Number Guessing Game.pdb
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# Number Guessing Game\obj\Debug\net5.0\C# Number Guessing Game.csproj.AssemblyReference.cache
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# Number Guessing Game\obj\Debug\net5.0\C# Number Guessing Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# Number Guessing Game\obj\Debug\net5.0\C# Number Guessing Game.AssemblyInfoInputs.cache
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# Number Guessing Game\obj\Debug\net5.0\C# Number Guessing Game.AssemblyInfo.cs
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# Number Guessing Game\obj\Debug\net5.0\C# Number Guessing Game.csproj.CoreCompileInputs.cache
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# Number Guessing Game\obj\Debug\net5.0\C# Number Guessing Game.dll
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# Number Guessing Game\obj\Debug\net5.0\ref\C# Number Guessing Game.dll
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# Number Guessing Game\obj\Debug\net5.0\C# Number Guessing Game.pdb
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# Number Guessing Game\obj\Debug\net5.0\C# Number Guessing Game.genruntimeconfig.cache
