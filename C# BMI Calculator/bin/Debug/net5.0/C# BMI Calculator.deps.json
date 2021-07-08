@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "HelloWorld/1.0.0": {
+      "C# BMI Calculator/1.0.0": {
         "runtime": {
-          "HelloWorld.dll": {}
+          "C# BMI Calculator.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "HelloWorld/1.0.0": {
+    "C# BMI Calculator/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

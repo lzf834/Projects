@@ -1,0 +1,16 @@
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# BMI Calculator\bin\Debug\net5.0\C# BMI Calculator.exe
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# BMI Calculator\bin\Debug\net5.0\C# BMI Calculator.deps.json
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# BMI Calculator\bin\Debug\net5.0\C# BMI Calculator.runtimeconfig.json
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# BMI Calculator\bin\Debug\net5.0\C# BMI Calculator.runtimeconfig.dev.json
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# BMI Calculator\bin\Debug\net5.0\C# BMI Calculator.dll
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# BMI Calculator\bin\Debug\net5.0\ref\C# BMI Calculator.dll
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# BMI Calculator\bin\Debug\net5.0\C# BMI Calculator.pdb
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# BMI Calculator\obj\Debug\net5.0\C# BMI Calculator.csproj.AssemblyReference.cache
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# BMI Calculator\obj\Debug\net5.0\C# BMI Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# BMI Calculator\obj\Debug\net5.0\C# BMI Calculator.AssemblyInfoInputs.cache
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# BMI Calculator\obj\Debug\net5.0\C# BMI Calculator.AssemblyInfo.cs
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# BMI Calculator\obj\Debug\net5.0\C# BMI Calculator.csproj.CoreCompileInputs.cache
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# BMI Calculator\obj\Debug\net5.0\C# BMI Calculator.dll
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# BMI Calculator\obj\Debug\net5.0\ref\C# BMI Calculator.dll
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# BMI Calculator\obj\Debug\net5.0\C# BMI Calculator.pdb
+C:\Users\zifoo\Desktop\ZF\Summer 2021\VS Code Projects\C# BMI Calculator\obj\Debug\net5.0\C# BMI Calculator.genruntimeconfig.cache

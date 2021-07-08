@@ -13,19 +13,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zifoo\\Desktop\\ZF\\Summer 2021\\VS Code Projects\\welcome dotnet\\HelloWorld\\HelloWorld.csproj",
-      "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\zifoo\\Desktop\\ZF\\Summer 2021\\VS Code Projects\\welcome dotnet\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\zifoo\\Desktop\\ZF\\Summer 2021\\VS Code Projects\\C# BMI Calculator\\C# BMI Calculator.csproj",
+      "projectName": "C# BMI Calculator",
+      "projectPath": "C:\\Users\\zifoo\\Desktop\\ZF\\Summer 2021\\VS Code Projects\\C# BMI Calculator\\C# BMI Calculator.csproj",
       "packagesPath": "C:\\Users\\zifoo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zifoo\\Desktop\\ZF\\Summer 2021\\VS Code Projects\\welcome dotnet\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\zifoo\\Desktop\\ZF\\Summer 2021\\VS Code Projects\\C# BMI Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\zifoo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\zifoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

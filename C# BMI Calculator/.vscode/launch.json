@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/HelloWorld/bin/Debug/net5.0/HelloWorld.dll",
+            "program": "${workspaceFolder}/bin/Debug/net5.0/C# BMI Calculator.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/HelloWorld",
+            "cwd": "${workspaceFolder}",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
